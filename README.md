@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asterbot&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asterbot&show_icons=true&theme=dark)](https://github.com/asterbot/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asterbot&show_icons=true&theme=dark)](https://git.io/streak-stats)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asterbot&show_icons=true&theme=dark)](https://github.com/asterbot/github-readme-stats)
