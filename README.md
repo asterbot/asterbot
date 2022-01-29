@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a project about `probability`, a jupyter notebook to understand it interactively!
 - 👯 I’m looking to collaborate with anyone with a passion for computer science!
-- 📫 How to reach me: arjun.sodhi@qprogramming.net
+- 📫 How to reach me: arjunsodhi7@gmail.com
 - 💬 Ask me about anything really!
 - 😄 Pronouns: He/Him
