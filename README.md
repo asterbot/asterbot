@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: arjunsodhi7@gmail.com
 - 💬 Ask me about anything really!
 - 😄 Pronouns: He/Him
+- Socials: [Instagram-Matrix Programmer](https://www.instagram.com/matrix_programmer/), [Youtube-Qprogrammming](https://www.youtube.com/qprogramming)
