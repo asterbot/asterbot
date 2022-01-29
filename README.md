@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: arjun.sodhi@qprogramming.net
 - 💬 Ask me about anything really!
 - 😄 Pronouns: He/Him
-
-<button name="button" onclick="https://www.instagram.com/matrix_programmer/" bg="red">Instagram</button>
