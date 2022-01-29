@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there👋I'm Arjun
+## Welcome to my Github!
 
 <!--
 **asterbot/asterbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a project about `probability`, a jupyter notebook to understand it interactively!
+- 👯 I’m looking to collaborate with anyone with a passion for computer science!
+- 📫 How to reach me: arjun.sodhi@qprogramming.net
+- 💬 Ask me about anything really!
+- 😄 Pronouns: He/Him
