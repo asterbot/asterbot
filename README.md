@@ -1,4 +1,4 @@
-### Hi there👋I'm Arjun
+### Hi there👋
 ## Welcome to my Github!
 
 <!--
