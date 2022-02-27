@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a project about probability, a jupyter notebook to understand it interactively!
 - 👯 I’m looking to collaborate with anyone with a passion for computer science!
 - 💬 Ask me about anything really!
 - 😄 Pronouns: He/Him
