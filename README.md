@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asterbot&show_icons=true&theme=dark)](https://git.io/streak-stats)
+<br>![trophies](https://github-profile-trophy.vercel.app/?username=DhrumanGupta&theme=onestar&column=4&margin-w=10&margin-h=10)  
+
 
 -->
 - 👯 I’m looking to collaborate with anyone with a passion for computer science!
@@ -28,6 +30,5 @@ Here are some ideas to get you started:
 <br><a href="mailto: arjun.sodhi@qprogramming.com"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asterbot&show_icons=true&theme=dark)
-<br>![trophies](https://github-profile-trophy.vercel.app/?username=DhrumanGupta&theme=onestar&column=4&margin-w=10&margin-h=10)  
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asterbot&show_icons=true&theme=dark)](https://github.com/asterbot/github-readme-stats)
 
