@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/qprogramming"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Qprogramming-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 - Reach me by mail
 <br><a href="mailto: arjun.sodhi@qprogramming.com"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-- 🌱 I’m currently learning Neural Networks, I am trying to design a program for my computer to be able to learn and recognize hand-written digits
  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asterbot&show_icons=true&theme=dark)
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asterbot&show_icons=true&theme=dark)](https://github.com/asterbot/github-readme-stats)
