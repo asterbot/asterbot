@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 - 👯 I’m looking to collaborate with anyone with a passion for computer science!
-- ⚡ Fun fact: Lists aren't actually constant-time access
+- ⚡ Fun fact: Lists don't actually have constant-time access
 - 😄 Pronouns: He/Him
 - 📫 Media based projects
  <br><a href="https://www.instagram.com/matrix_programmer/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Matrix_Programmer-blue?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
