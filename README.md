@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  <br><a href="https://www.instagram.com/matrix_programmer/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Matrix_Programmer-blue?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/qprogramming"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Qprogramming-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 - 💬 Reach me on discord
-<br>![](https://dcbadge.vercel.app/api/shield/377810036669415425)
+<br>![](https://dcbadge.vercel.app/api/shield/377810036669415425?bot=true)
  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asterbot&show_icons=true&theme=dark)
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asterbot&show_icons=true&theme=dark)](https://github.com/asterbot/github-readme-stats)
