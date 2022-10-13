@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with anyone with a passion for computer science!
 - 💬 Ask me about anything really!
 - 😄 Pronouns: He/Him
-- 📫 Side projects
+- 📫 Side (media-based) projects
  <br><a href="https://www.instagram.com/matrix_programmer/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Matrix_Programmer-blue?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/qprogramming"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Qprogramming-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 - Reach me by mail
