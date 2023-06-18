@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Multiplication isn't actually O(1) [it's super close though]
-- ![My Discord](https://discord-readme-badge.vercel.app/api?id=<your discord id>)
+- ![My Discord](https://discord-readme-badge.vercel.app/api?id=377810036669415425)
 - 🌱 I’m currently learning the fundamentals of AI and Modern Web Development!
 - 📫 Media based projects
  <br><a href="https://www.instagram.com/matrix_programmer/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Matrix_Programmer-blue?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
