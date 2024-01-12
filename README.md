@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 -->
-Hi, I'm Arjun and I'm a current undergraduate student studying CS @ University of Waterloo<br>
+Hi, I'm Arjun and I'm a current undergraduate student studying CS@University of Waterloo<br>
 - ⚡ Fun fact: Multiplication isn't actually O(1) [it's super close though]
 - 📫 Media based projects:
  <br><a href="https://www.instagram.com/asterb0t/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-asterbot-blue?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
