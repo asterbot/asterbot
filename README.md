@@ -32,5 +32,4 @@ Hi, I'm Arjun and I'm a current undergraduate student studying CS @ University o
 - How to reach me: <br>
   I'm always looking for opportunities to connect and collaborate with like-minded individuals! <br>
   You can reach me via [Linkedin](https://www.linkedin.com/in/arjun-sodhi/) or discord at [asterbot](https://discordapp.com/users/377810036669415425)
-
-![asterbot's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asterbot&theme=vue-dark&hide_border=true)
+  
