@@ -31,5 +31,5 @@ Hi, I'm Arjun and I'm a current undergraduate student studying CS@University of 
 <a href="https://www.youtube.com/qprogramming"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Qprogramming-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 - How to reach me: <br>
   I'm always looking for opportunities to connect and collaborate with like-minded individuals! <br>
-  You can reach me via [Linkedin](https://www.linkedin.com/in/arjun-sodhi/) or discord at [asterbot](https://discordapp.com/users/377810036669415425)
+  You can reach me via [Linkedin](https://www.linkedin.com/in/arjun-sodhi/) or [Discord](https://discordapp.com/users/377810036669415425)
   
