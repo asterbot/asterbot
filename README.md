@@ -30,7 +30,7 @@ Hi, I'm Arjun and I'm a current undergraduate student studying CS@University of 
 
 -->
 Hi, I'm Arjun, currently an undergrad CS student at UWaterloo! \
-I'm a huge nerd about tech, and passionately enjoy designing and creating new things and exploring this never ending world!
+I'm a huge nerd about tech - I really enjoy designing and creating new things and exploring the never ending world of technology!
 - Random CS fact I find cool: **Multiplication of numbers isn't actually O(1)!** - It's _super_ close though, close enough to be considered constant time for a lot of cases! 
 - You can reach out to me by:
   - [Linkedin](https://www.linkedin.com/in/arjun-sodhi/)
