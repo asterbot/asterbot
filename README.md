@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello there! 👋
 
 <!--
 **asterbot/asterbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +35,10 @@ I'm a huge nerd about tech - I really enjoy designing and creating new things an
 - You can reach out to me by:
   - [Linkedin](https://www.linkedin.com/in/arjun-sodhi/)
   - [Discord](https://discordapp.com/users/377810036669415425)
+- Check out my personal website: https://asterbot.github.io/
 
-Always open to collaborate with like-minded people!
+GitHub Stats: \
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asterbot\&rank_icon=github&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asterbot\&rank_icon=github&theme=radical)
+I'm always open to collaborate with like-minded people!
+
