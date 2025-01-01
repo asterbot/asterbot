@@ -37,3 +37,5 @@ I'm a huge nerd about tech - I really enjoy designing and creating new things an
   - [Discord](https://discordapp.com/users/377810036669415425)
 
 Always open to collaborate with like-minded people!
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asterbot\&rank_icon=github)
