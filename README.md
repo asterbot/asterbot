@@ -40,6 +40,3 @@ I'm a huge nerd about tech - I really enjoy designing and creating new things an
 
 GitHub Stats: \
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asterbot\&rank_icon=github&theme=tokyonight)
-
-I'm always open to collaborate with like-minded people!
-
