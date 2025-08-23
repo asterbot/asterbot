@@ -40,3 +40,6 @@ I'm a huge nerd about tech - I really enjoy designing and creating new things an
 
 GitHub Stats: \
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asterbot\&rank_icon=github&theme=tokyonight)
+
+Top languages: \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asterbot&show_icons=true&theme=dark)](https://github.com/asterbot/github-readme-stats)
