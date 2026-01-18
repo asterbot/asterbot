@@ -26,8 +26,6 @@ Hi, I'm Arjun and I'm a current undergraduate student studying CS@University of 
 - How to reach me: <br>
   I'm always looking for opportunities to connect and collaborate with like-minded individuals! <br>
   You can reach me via [Linkedin](https://www.linkedin.com/in/arjun-sodhi/) or [Discord](https://discordapp.com/users/377810036669415425)
-  
-
 -->
 Hi, I'm Arjun, currently an undergrad CS student at UWaterloo! \
 I'm a huge nerd about tech - I really enjoy designing and creating new things and exploring the never ending world of technology!
@@ -36,9 +34,3 @@ I'm a huge nerd about tech - I really enjoy designing and creating new things an
   - [Discord](https://discordapp.com/users/377810036669415425)
 - Check out my personal website: https://asterbot.github.io/
 - Check out my itch.io page: https://asterbot.itch.io/ 
-
-GitHub Stats: \
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asterbot\&rank_icon=github&theme=tokyonight)
-
-Top languages: \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asterbot&show_icons=true&theme=dark)](https://github.com/asterbot/github-readme-stats)
