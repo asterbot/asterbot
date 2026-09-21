@@ -33,4 +33,15 @@ I'm a huge nerd about tech - I really enjoy designing and creating new things an
   - [Linkedin](https://www.linkedin.com/in/arjun-sodhi/)
   - [Discord](https://discordapp.com/users/377810036669415425)
 - Check out my personal website: https://asterbot.github.io/
-- Check out my itch.io page: https://asterbot.itch.io/ 
+- Check out my itch.io page: https://asterbot.itch.io/
+  
+[![Arjun's GitHub stats](https://github-stats-extended.vercel.app/api/?username=asterbot&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Arjun's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=asterbot&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Arjun's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
+
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=asterbot&langs_count=4&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=asterbot&langs_count=4&theme=light_github" alt="Top Langs" />
+</picture>
