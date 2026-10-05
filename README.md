@@ -26,14 +26,7 @@ Hi, I'm Arjun and I'm a current undergraduate student studying CS@University of 
 - How to reach me: <br>
   I'm always looking for opportunities to connect and collaborate with like-minded individuals! <br>
   You can reach me via [Linkedin](https://www.linkedin.com/in/arjun-sodhi/) or [Discord](https://discordapp.com/users/377810036669415425)
--->
-Hi, I'm Arjun, currently an undergrad CS student at UWaterloo! \
-I'm a huge nerd about tech - I really enjoy designing and creating new things and exploring the never ending world of technology!
-- You can reach out to me by:
-  - [Linkedin](https://www.linkedin.com/in/arjun-sodhi/)
-  - [Discord](https://discordapp.com/users/377810036669415425)
-- Check out my personal website: https://asterbot.github.io/
-- Check out my itch.io page: https://asterbot.itch.io/
+
   
 [![Arjun's GitHub stats](https://github-stats-extended.vercel.app/api/?username=asterbot&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Arjun's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=asterbot&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Arjun's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
@@ -45,3 +38,11 @@ I'm a huge nerd about tech - I really enjoy designing and creating new things an
   />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=asterbot&langs_count=4&theme=light_github" alt="Top Langs" />
 </picture>
+-->
+Hi, I'm Arjun, currently an undergrad CS student at UWaterloo! \
+I'm a huge nerd about tech - I really enjoy designing and creating new things and exploring the never ending world of technology!
+- You can reach out to me by:
+  - [Linkedin](https://www.linkedin.com/in/arjun-sodhi/)
+  - [Discord](https://discordapp.com/users/377810036669415425)
+- Check out my personal website: https://asterbot.github.io/
+- Check out my itch.io page: https://asterbot.itch.io/
